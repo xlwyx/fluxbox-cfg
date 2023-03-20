@@ -20,6 +20,7 @@
       [exec] (Firefox) {firefox}
       [exec] (Pcmanfm) {pcmanfm}
       [exec] (Pavucontrol) {pavucontrol}
+      [exec] (Gimp) {gimp}
       [exec] (TelegramDesktop) {telegram-desktop}
       [exec] (Signal) {signal-desktop}
       [exec] (gaculator) {galculator}
