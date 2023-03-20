@@ -24,8 +24,9 @@ setxkbmap -model cp105 -layout es &
 # exec fluxbox -log "~/.fluxbox/log"
 
 cbatticon &
-#fcitx5 -s 3 &
-feh --bg-fill ~/Pictures/piccas_img/texture-background-surface-pattern-faded.jpg &
+fcitx5 &
+#feh --bg-fill ~/Pictures/piccas_img/Cool-Anime-Background.jpg &
+nitrogen --restore &
 ~/./pipewire-pulse &
 xscreensaver --nosplash &
 picom -cCGF &
