@@ -18,7 +18,7 @@
 [encoding] {UTF-8}
       [exec] (Alacritty) {alacritty}
       [exec] (Firefox) {firefox}
-      [exec] (Thunar) {thunar}
+      [exec] (Pcmanfm) {pcmanfm}
       [exec] (Pavucontrol) {pavucontrol}
       [exec] (TelegramDesktop) {telegram-desktop}
       [exec] (Signal) {signal-desktop}
