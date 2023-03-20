@@ -29,7 +29,7 @@ Mod4 m :Exec thunderbird
 Mod4 w :Exec firefox
 Mod4 l :Exec slock
 # open folder
-Mod4 f :Exec Thunar
+Mod4 f :Exec Pcmanfm
 # undecorate a window
 # Mod4 t :ToggleDecor
 
@@ -156,5 +156,5 @@ None Print :Exec ~/./screenshot
 Mod4 i :Exec telegram-desktop
 Mod4 o :Exec signal-desktop
 Mod4 t :Exec alacritty
-Mod4 r :Exec rofi -show-icons -show drun
+Mod4 r :Exec rofi -show-icons -show drun -font 'Iosevka NerdFont 9'
 
