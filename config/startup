@@ -25,10 +25,8 @@ setxkbmap -model cp105 -layout es &
 
 cbatticon &
 fcitx5 &
-#feh --bg-fill ~/Pictures/piccas_img/Cool-Anime-Background.jpg &
-nitrogen --restore &
+feh --bg-fill ~/Pictures/piccas_img/Cool-Anime-Background.jpg &
 ~/./pipewire-pulse &
-xscreensaver --nosplash &
 picom -cCGF &
 
 exec fluxbox
